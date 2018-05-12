@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
 description: Uncle Wiggily and Alice have adventures with other characters from Lewis
   Carroll's Wonderland.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42574#Uncle-Wiggily-in-Wonderland
 gutenberg_issued: '2013-04-21'
 gutenberg_type: Text
 identifiers:
