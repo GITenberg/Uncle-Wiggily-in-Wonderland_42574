@@ -1,0 +1,38 @@
+_repo: Uncle-Wiggily-in-Wonderland_42574
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bloomfield, Edward
+    gutenberg_agent_id: '41748'
+    url: http://www.gutenberg.org/2009/agents/41748
+covers:
+- cover_type: archival
+  image_path: 42574-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: Uncle Wiggily and Alice have adventures with other characters from Lewis
+  Carroll's Wonderland.
+gutenberg_issued: '2013-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature'
+- !lcsh 'Rabbits -- Juvenile fiction'
+- !lcsh 'Carroll, Lewis, 1832-1898 -- Parodies, imitations, etc.'
+- !lcc 'PZ'
+title: Uncle Wiggily in Wonderland
+url: http://www.gutenberg.org/ebooks/42574
